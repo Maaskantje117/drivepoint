@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Демонстрационный проект DRIVEPOINT.
